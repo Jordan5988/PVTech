@@ -1,2 +1,3 @@
 # PVTech
-PVtech want to be an apply web for use any forms of validation work. 
+PV tech must be a web application providing quality validation processes
+for companies for which this criterion is essential.
